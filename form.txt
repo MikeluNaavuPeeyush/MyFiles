@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Personal Info</title>
+</head>
+<body bgcolor="gold">
+<table align="center">
+<tr>
+<td><b>First Name</b></td>
+<td><input type="Text" value="Enter Your 
+First Name"></td>
+</tr>
+<tr>
+<td
